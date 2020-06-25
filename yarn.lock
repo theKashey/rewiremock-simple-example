@@ -525,10 +525,10 @@ regenerator-runtime@^0.11.0:
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
   integrity sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg==
 
-rewiremock@^3.14.2:
-  version "3.14.2"
-  resolved "https://registry.yarnpkg.com/rewiremock/-/rewiremock-3.14.2.tgz#a3bb62dc1f50190d20248fb3361b34a62871f532"
-  integrity sha512-oNdLZhl9wcs1PRI/tukZCgNkKSyC8y74a0WBC2w0eRfB1kSh16ckAxtqYh8LeZBogXZQhLA4qHFa8uq5/8wK9w==
+rewiremock@^3.14.3:
+  version "3.14.3"
+  resolved "https://registry.yarnpkg.com/rewiremock/-/rewiremock-3.14.3.tgz#8b42d2b79bb39e8da51cb89159061c2366ea6db3"
+  integrity sha512-6BaUGfp7NtxBjisxcGN73nNiA2fS2AwhEk/9DMUqxfv5v0aDM1wpOYpj5GSArqsJi07YCfLhkD8C74LAN7+FkQ==
   dependencies:
     babel-runtime "^6.26.0"
     compare-module-exports "^2.1.0"

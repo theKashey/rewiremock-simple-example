@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rewiremock": "^3.14.2"
+    "rewiremock": "^3.14.3"
   }
 }

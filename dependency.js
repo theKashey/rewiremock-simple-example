@@ -1,0 +1,1 @@
+module.exports = "rewiremock is not working";
